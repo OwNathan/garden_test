@@ -1,40 +1,89 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <title>Degenesis Map</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style> body { margin: 0; padding: 0; } </style>
+  
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
   <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
 </head>
 <body>
 
   <div id="map" style="height: 100vh; width: 100vw;"></div>
 
   <script>
-    // 1. Initialize Map
+    // --- CONFIGURATION ---
+    // 1. PASTE YOUR "PUBLISH TO WEB" CSV LINK HERE:
+    var sheetUrl = 'YOUR_GOOGLE_SHEET_CSV_LINK_HERE';
+
+    // 2. YOUR MAP IMAGE DETAILS
+    var mapWidth = 2116; 
+    var mapHeight = 1788;
+    var mapImageUrl = 'https://raw.githubusercontent.com/OwNathan/garden_test/main/degenesis-rebirth-world-map-en-3264x2320.png';
+
+    // --- SETUP MAP ---
     var map = L.map('map', {
       crs: L.CRS.Simple,
       minZoom: -2,
-      maxZoom: 2,
-      zoomSnap: 0.5
+      maxZoom: 2
     });
 
-    // 2. Dimensions (Your photoshop dimensions)
-    var w = 2116; 
-    var h = 1788; 
-    var bounds = [[0, 0], [h, w]];
-
-    // 3. Image URL (Using the "raw" version properly)
-    var url = 'https://raw.githubusercontent.com/OwNathan/garden_test/main/degenesis-rebirth-world-map-en-3264x2320.png';
-
-    // 4. Add Image
-    L.imageOverlay(url, bounds).addTo(map);
-
-    // 5. Center Map
+    var bounds = [[0, 0], [mapHeight, mapWidth]];
+    var image = L.imageOverlay(mapImageUrl, bounds).addTo(map);
     map.fitBounds(bounds);
 
-    // 6. Add Marker
-    L.marker([h/2, w/2]).addTo(map)
-      .bindPopup("<b>Welcome!</b><br>This is the center.");
+    // --- FEATURE 1: RIGHT CLICK TO GET COORDINATES ---
+    map.on('contextmenu', function(e) {
+      var x = e.latlng.lng.toFixed(0);
+      var y = e.latlng.lat.toFixed(0);
+      
+      var popupContent = `
+        <div style="text-align:center">
+          <b>Coordinates Found!</b><br>
+          X: <b>${x}</b> <br>
+          Y: <b>${y}</b> <br>
+          <hr style="margin: 5px 0;">
+          <small>Paste these into Col B & C</small>
+        </div>
+      `;
+      
+      L.popup()
+        .setLatLng(e.latlng)
+        .setContent(popupContent)
+        .openOn(map);
+    });
+
+    // --- FEATURE 2: LOAD MARKERS FROM GOOGLE SHEET ---
+    Papa.parse(sheetUrl, {
+      download: true,
+      header: true,
+      complete: function(results) {
+        var data = results.data;
+        
+        data.forEach(function(row) {
+          // Only add pin if we have coordinates and a Title
+          if(row.X && row.Y && row.Title) {
+            
+            // Build the popup HTML
+            var popupHtml = `<b>${row.Title}</b><br>${row.Description}`;
+            
+            // Add "More Info" link if column E exists
+            if(row.Link && row.Link.trim() !== "") {
+              popupHtml += `<br><br><a href="${row.Link}" target="_blank">More Info &rarr;</a>`;
+            }
+
+            // Note: Leaflet uses [Y, X] for coordinates
+            L.marker([row.Y, row.X]).addTo(map)
+              .bindPopup(popupHtml);
+          }
+        });
+      }
+    });
+
   </script>
 
 </body>
