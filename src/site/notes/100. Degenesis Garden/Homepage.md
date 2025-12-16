@@ -18,7 +18,6 @@
   var bounds = [[0, 0], [h, w\|0, 0], [h, w]];
   // 3. CORRECT URL (Removed 'refs/heads/')
   var url = 'https://raw.githubusercontent.com/OwNathan/garden_test/main/degenesis-rebirth-world-map-en-3264x2320.png';
-
   var image = L.imageOverlay(url, bounds).addTo(map);
   map.fitBounds(bounds);
   L.marker([h/2, w/2]).addTo(map)
