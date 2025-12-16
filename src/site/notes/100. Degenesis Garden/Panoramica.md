@@ -3,9 +3,7 @@
 ---
 
 
-
 # Storia
-
 
 ### 1. L'Eshaton (2073) e la Fine del Vecchio Mondo
 

@@ -20,3 +20,5 @@
   L.marker([h/2, w/2]).addTo(map)
     .bindPopup("<b>Welcome!</b><br>This is the center of the map.");
 </script>
+
+
