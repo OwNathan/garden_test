@@ -1,21 +1,35 @@
+
+
+/* FLUID LAYOUT (PC Screens only) */
 @media (min-width: 1024px) {
   
-  /* 1. Override standard variables used by many themes */
+  /* 1. Increase the variables that control text width */
   :root, body {
-    --container-width: 1400px !important; /* Increase standard width */
-    --line-width: 1400px !important;      /* Increase reading line width */
-    --line-width-adaptive: 1400px !important; 
+    --line-width: 100% !important;         /* Let lines fill the container */
+    --line-width-adaptive: 100% !important; 
   }
 
-  /* 2. Force the main container to expand */
-  /* We target multiple potential class names to be safe */
+  /* 2. Target the main content container */
   main, 
   .content, 
   .wrapper, 
   .markdown-preview-view {
-    max-width: 1400px !important; /* Stop it from getting infinitely wide */
-    width: 92% !important;        /* Take up 92% of the available screen */
-    margin-left: auto !important;
-    margin-right: auto !important;
+    
+	max-width: 1400px !important; /* Stop it from getting infinitely wide */
+	
+    /* Fill the available width */
+    width: 100% !important;
+    max-width: 100% !important;
+
+    /* 3. THE FIX: Reserve space for the Table of Contents (Right Sidebar) */
+    /* 320px is usually enough to clear the sidebar + some gap */
+    padding-right: 320px !important; 
+    
+    /* Optional: Add a little breathing room on the left */
+    padding-left: 40px !important;
+    
+    /* Remove auto margins so it uses the padding layout instead */
+    margin-left: 0 !important;
+    margin-right: 0 !important;
   }
 }

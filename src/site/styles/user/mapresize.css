@@ -8,7 +8,7 @@
 @media (min-width: 768px) {
   .map-container {
 	width: 100%;
-    height: 400px; /* Fixed height for Desktop */
+    max-height: 600px; /* Fixed height for Desktop */
     border-radius: 8px; 
     box-shadow: 0 4px 6px rgba(0,0,0,0.1); 
   }
