@@ -2,7 +2,7 @@
 /* FLUID LAYOUT (PC Screens only) */
 @media (min-width: 1024px) {
   
-  /* 1. Pin the Sidebar to the Right */
+  /* 1. Pin the Right Sidebar */
   .sidebar {
     /* Override the calculated left position logic */
     left: auto !important;
@@ -18,19 +18,34 @@
     /* Ensure it stays on top/visible */
     z-index: 10;
   }
+  
+  /* 2. Fix Left Sidebar (File Tree) Wrapper */
+  .filetree-wrapper {
+      /* Stop the wrapper from filling the empty space to the left of content */
+      width: var(--dg-filetree-width) !important;
+      min-width: var(--dg-filetree-width) !important;
+      max-width: var(--dg-filetree-width) !important;
+      
+      /* Pin to the left edge */
+      left: 0 !important;
+      
+      /* Reset layout alignment */
+      justify-content: flex-start !important;
+      
+      /* Ensure z-index is correct (though base has it high) */
+      z-index: 10;
+  }
 
-  /* 2. Adjust Main Content to fill space */
+  /* 3. Adjust Main Content to fill space */
   .content {
     /* Allow full expansion */
     max-width: none !important;
     width: auto !important;
 
     /* Reserve space for Right Sidebar (width + gap) */
-    /* Using margin prevents content from flowing under the sidebar */
     margin-right: calc(var(--dg-sidebar-max-width) + 40px) !important;
     
     /* Reserve space for Left Filetree (width + gap) */
-    /* This replaces the default centering calculation */
     margin-left: calc(var(--dg-filetree-width) + 40px) !important;
     
     /* Reset paddings/margins from default or previous attempts */
