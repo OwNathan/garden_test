@@ -71,7 +71,7 @@ body {
     }
   }
   .svg-icon {
-    display: none;
+    display: none !important;
   }
 
   .callout-content {
