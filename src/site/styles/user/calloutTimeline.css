@@ -92,9 +92,10 @@ body {
 div:not(:has(> [data-callout="timeline"])) + div > [data-callout="timeline"] {
   margin-top: var(--p-spacing);
 }
-div:has(> [data-callout="timeline"]) + div:not(> [data-callout="timeline"]) {
+div:has(> [data-callout="timeline"]) + div:not(:has(> [data-callout="timeline"])) {
   margin-bottom: 1rem;
 }
+
 
 /* Timeline dot colors */
 [data-callout-metadata="red"] {
