@@ -1,0 +1,18 @@
+<script>
+window.addEventListener('message', function(event) {
+    // 1. Check if the message is from your widget
+    if (event.data.type === 'ttrpg-widget-resize') {
+        
+        // 2. Find all iframes
+        const iframes = document.querySelectorAll('iframe');
+        
+        iframes.forEach(iframe => {
+            // 3. Resize the correct iframe
+            // You can check if the source matches your GitHub URL to be safe
+            if (iframe.src.includes('github.io')) {
+                iframe.style.height = (event.data.height + 20) + 'px';
+            }
+        });
+    }
+});
+</script>
