@@ -1,51 +1,47 @@
+
 /* FLUID LAYOUT (PC Screens only) */
 @media (min-width: 1024px) {
-
-  /* 1. Target the main page container */
-  /* This class wraps everything (menu, content, toc) */
-  body {
-    /* Ensure the body acts as the main grid container if needed, 
-       but usually .dg-main-container or similar handles this. 
-       Let's target the known layout container from your base theme. */
+  
+  /* 1. Pin the Sidebar to the Right */
+  .sidebar {
+    /* Override the calculated left position logic */
+    left: auto !important;
+    right: 0 !important;
+    
+    /* Disable the template's auto-positioning/sliding logic */
+    transform: none !important;
+    
+    /* Ensure the width is respected */
+    width: var(--dg-sidebar-max-width) !important;
+    max-width: var(--dg-sidebar-max-width) !important;
+    
+    /* Ensure it stays on top/visible */
+    z-index: 10;
   }
 
-  /* 2. Redefine the Content Wrapper Grid */
-  /* Based on digital-garden-base.scss, the structure is often inside .content */
+  /* 2. Adjust Main Content to fill space */
   .content {
-    display: grid !important;
-    /* COLUMN 1: Main Text (takes all available space) */
-    /* COLUMN 2: Sidebar (Fixed width of 250px) */
-    grid-template-columns: 1fr 280px !important; 
-    grid-template-rows: auto !important;
-    grid-template-areas: "text toc" !important;
-    
-    gap: 40px !important; /* Space between text and sidebar */
-    
-    width: 95% !important;
-    max-width: 1600px !important;
-    margin: 0 auto !important; /* Center the whole thing */
-    padding-right: 0 !important; /* Reset the failed padding fix */
-  }
+    /* Allow full expansion */
+    max-width: none !important;
+    width: auto !important;
 
-  /* 3. Assign the "Text" to the first column */
-  /* This targets the actual markdown content */
-  #main-content, 
-  .markdown-preview-view {
-    grid-area: text !important;
-    width: 100% !important;
-    max-width: 100% !important; /* Stop it from overflowing */
+    /* Reserve space for Right Sidebar (width + gap) */
+    /* Using margin prevents content from flowing under the sidebar */
+    margin-right: calc(var(--dg-sidebar-max-width) + 40px) !important;
+    
+    /* Reserve space for Left Filetree (width + gap) */
+    /* This replaces the default centering calculation */
+    margin-left: calc(var(--dg-filetree-width) + 40px) !important;
+    
+    /* Reset paddings/margins from default or previous attempts */
+    padding-left: 0 !important;
+    padding-right: 0 !important;
   }
-
-  /* 4. Assign the "Sidebar" (Panoramica) to the second column */
-  /* We need to target the TOC container specifically. 
-     In digital garden it's often .toc-container or .sidebar-right */
-  .toc-container, 
-  .sidebar-right {
-    grid-area: toc !important;
-    display: block !important;
-    width: 100% !important;
-    position: sticky !important;
-    top: 20px;
-    height: fit-content;
+  
+  /* Optional: Adjustments if Filetree is hidden (if body has no-filetree class) */
+  body.no-filetree .content {
+      margin-left: auto !important;
+      margin-right: calc(var(--dg-sidebar-max-width) + 40px) !important;
+      max-width: 1400px !important; /* Cap width if no filetree, or remove to keep fluid */
   }
 }
