@@ -1,0 +1,21 @@
+@media (min-width: 1024px) {
+  
+  /* 1. Override standard variables used by many themes */
+  :root, body {
+    --container-width: 1400px !important; /* Increase standard width */
+    --line-width: 1400px !important;      /* Increase reading line width */
+    --line-width-adaptive: 1400px !important; 
+  }
+
+  /* 2. Force the main container to expand */
+  /* We target multiple potential class names to be safe */
+  main, 
+  .content, 
+  .wrapper, 
+  .markdown-preview-view {
+    max-width: 1400px !important; /* Stop it from getting infinitely wide */
+    width: 92% !important;        /* Take up 92% of the available screen */
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+}
