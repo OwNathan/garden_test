@@ -70,7 +70,8 @@ body {
       left: var(--timeline-dot-offset-x);
     }
   }
-  .svg-icon {
+  .svg-icon,
+  .lucide-pencil {
     display: none !important;
   }
 
@@ -82,11 +83,12 @@ body {
     margin-bottom: var(--timeline-card-margin);
     padding: var(--timeline-card-padding-x) var(--timeline-card-padding-y);
 
-    & > h2:first-child {
+    & > :first-child {
       margin-top: 0;
     }
   }
 }
+
 
 /* Stacking multiple timelines */
 div:not(:has(> [data-callout="timeline"])) + div > [data-callout="timeline"] {
