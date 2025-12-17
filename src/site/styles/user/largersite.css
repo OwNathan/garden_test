@@ -1,35 +1,51 @@
-
-
 /* FLUID LAYOUT (PC Screens only) */
 @media (min-width: 1024px) {
-  
-  /* 1. Increase the variables that control text width */
-  :root, body {
-    --line-width: 100% !important;         /* Let lines fill the container */
-    --line-width-adaptive: 100% !important; 
+
+  /* 1. Target the main page container */
+  /* This class wraps everything (menu, content, toc) */
+  body {
+    /* Ensure the body acts as the main grid container if needed, 
+       but usually .dg-main-container or similar handles this. 
+       Let's target the known layout container from your base theme. */
   }
 
-  /* 2. Target the main content container */
-  main, 
-  .content, 
-  .wrapper, 
-  .markdown-preview-view {
+  /* 2. Redefine the Content Wrapper Grid */
+  /* Based on digital-garden-base.scss, the structure is often inside .content */
+  .content {
+    display: grid !important;
+    /* COLUMN 1: Main Text (takes all available space) */
+    /* COLUMN 2: Sidebar (Fixed width of 250px) */
+    grid-template-columns: 1fr 280px !important; 
+    grid-template-rows: auto !important;
+    grid-template-areas: "text toc" !important;
     
-	max-width: 1400px !important; /* Stop it from getting infinitely wide */
-	
-    /* Fill the available width */
-    width: 100% !important;
-    max-width: 100% !important;
+    gap: 40px !important; /* Space between text and sidebar */
+    
+    width: 95% !important;
+    max-width: 1600px !important;
+    margin: 0 auto !important; /* Center the whole thing */
+    padding-right: 0 !important; /* Reset the failed padding fix */
+  }
 
-    /* 3. THE FIX: Reserve space for the Table of Contents (Right Sidebar) */
-    /* 320px is usually enough to clear the sidebar + some gap */
-    padding-right: 320px !important; 
-    
-    /* Optional: Add a little breathing room on the left */
-    padding-left: 40px !important;
-    
-    /* Remove auto margins so it uses the padding layout instead */
-    margin-left: 0 !important;
-    margin-right: 0 !important;
+  /* 3. Assign the "Text" to the first column */
+  /* This targets the actual markdown content */
+  #main-content, 
+  .markdown-preview-view {
+    grid-area: text !important;
+    width: 100% !important;
+    max-width: 100% !important; /* Stop it from overflowing */
+  }
+
+  /* 4. Assign the "Sidebar" (Panoramica) to the second column */
+  /* We need to target the TOC container specifically. 
+     In digital garden it's often .toc-container or .sidebar-right */
+  .toc-container, 
+  .sidebar-right {
+    grid-area: toc !important;
+    display: block !important;
+    width: 100% !important;
+    position: sticky !important;
+    top: 20px;
+    height: fit-content;
   }
 }
