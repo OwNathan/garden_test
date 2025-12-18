@@ -4,7 +4,7 @@
 
 # Mappa
 
-<iframe class="map-container" src="https://ownathan.github.io/TestRpgWigdets/map.html" frameborder="0" ></iframe>
+<iframe class="map-container" src="https://ownathan.github.io/TestRpgWigdets/map.html" frameborder="0" allow="fullscreen"></iframe>
 
 
 # Test Resize
