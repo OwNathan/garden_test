@@ -11,3 +11,5 @@
 
 <iframe src="https://OwNathan.github.io/TestRpgWigdets/LargeReputationWidget.html?sheetId=1V2KganEwaOUCPIvh8_iQTfsgf4uNXFUx_13xTtSFxxI" style="width:100%; height:100%; border:none;"></iframe>
 
+
+<iframe src="https://OwNathan.github.io/TestRpgWigdets/NPCWidget.html?sheetId=1qmfeFxPeAmccrxF7qggzWwpNchkpsw6wsTco-2cvRXw" style="width:100%; height:100%; border:none;"></iframe>
