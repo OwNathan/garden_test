@@ -5,14 +5,13 @@
 
 # Storia
 
-### 1. L'Eshaton (2073) e la Fine del Vecchio Mondo
+## 1. L'eshaton (2073) e la fine del vecchio mondo
 
 La storia moderna inizia con la catastrofe definitiva: l'Eshaton. Nel 2073, uno sciame di asteroidi colpì la Terra, devastando la civiltà umana. L'impatto fu devastante, frantumando la crosta terrestre e causando terremoti, tsunami e tempeste di fuoco che cancellarono 10.000 anni di cultura in un solo giorno.
 
 L'Europa fu colpita duramente, divisa fisicamente da una frattura tettonica nota come **Reaper's Blow**, che corre dalla Scandinavia fino al Mediterraneo, separando il continente. In Africa, un asteroide colpì la regione tra il Sudan e il bacino del Congo, creando una cicatrice nota come **Dhoruba** e distruggendo vaste aree con un'onda d'urto atmosferica.
 
-
-### 2. Il Primer e l'Homo Degenesis
+## 2. Il primer e l'homo degenesis
 
 Gli asteroidi non portarono solo distruzione cinetica; portavano il **Primer**, una sostanza aliena che iniziò a terraformare il pianeta e a riscrivere il DNA dell'umanità. Il Primer si manifesta attraverso la **Sepsi**, una rete fungina che copre la terra e produce **Spore**. Coloro che inalano o ingeriscono le Spore (spesso tramite una droga chiamata **Burn**) subiscono mutazioni genetiche o diventano portatori, noti come **Leperos**.
 
@@ -26,8 +25,7 @@ Dalla Sepsi nacque una nuova specie, l'**Homo Degenesis**, o **Psychonauts**. Qu
 
 In Africa, il Primer si manifestò come **Psychovores**, una vegetazione aliena aggressiva che unisce le menti delle persone, dissolvendo le barriere linguistiche ma minacciando l'individualità.
 
-
-### 3. La Rinascita delle Culture (2073 - 2595)
+### 3. La rinascita delle culture (2073 - 2595)
 
 Dopo secoli di oscurità e un'era glaciale causata dalla polvere dei crateri, l'umanità iniziò a ricostruire. Sorsero sette culture principali:
 
@@ -39,18 +37,15 @@ Dopo secoli di oscurità e un'era glaciale causata dalla polvere dei crateri, l'
 - **Purgare (ex Italia):** Divisa dagli Appennini. È la terra degli **Anabaptists**, che vedono il mondo post-Eshaton come un paradiso corrotto da purificare con il fuoco e l'olio elisio. Combattono una guerra eterna contro gli **Jehammedans**.
 - **Africa:** Il continente è fiorito mentre l'Europa gelava. Sotto il segno del Leone, i **Neolibyans** (commercianti), gli **Scourgers** (guerrieri) e gli **Anubians** (mistici) hanno costruito una civiltà potente che ora espande la sua influenza in Europa, commerciando e saccheggiando.
 
-
-### 4. Project Tannhäuser e gli Sleepers
+### 4. Project tannhäuser e gli sleepers
 
 Prima dell'Eshaton, una corporazione chiamata Recombination Group (RG) avviò il **Project Tannhäuser**. Congelarono persone selezionate (gli **Sleepers**) in bunker sotterranei (Dispensers) per risvegliarli a intervalli di 100 anni (le "Cascades") e ricostruire il mondo secondo la visione di Gerome Getrell. Tuttavia, il piano fallì. Molti Sleepers si svegliarono nel caos, con memorie frammentate o corrotti. Alcuni divennero signori della guerra, altri si nascosero. Sono cacciati dai **Marauders**, antichi esseri mutati (come **Argyre** e **Gusev**) che si nutrono del sangue nanotecnologico (Ambrosia) degli Sleepers per sopravvivere.
 
-
-### 5. Storia Recente: Exalt e le Guerre delle Città
+### 5. Storia recente: exalt e le guerre delle città
 
 Nel 2146 sorse la città di **Exalt** nell'Est di Borca, fondata dalla "Nameless Tribe" che scoprì una struttura sotterranea chiamata **Grindworks**. Questa struttura permetteva di rimuovere il condizionamento mentale e potenziare gli umani ("embossing"). Exalt divenne una civiltà basata sull'ideologia del "Free Spirit", in diretta opposizione al piano del Project Tannhäuser. Tuttavia, la città cadde nel caos e nel nichilismo, culminando nelle **City Wars** intorno al 2482, dove Exalt combattè contro gli Sleepers, gli Anabaptists e i Machine Men di Noret. La città fu distrutta e i suoi abitanti si dispersero o fuggirono a **Liqua**.
 
-
-### 6. Eventi Attuali (2595-2597)
+### 6. Eventi attuali (2595-2597)
 
 Oggi il mondo è sull'orlo di nuovi conflitti:
 
@@ -61,12 +56,11 @@ Oggi il mondo è sull'orlo di nuovi conflitti:
 
 Il mondo di Degenesis è in costante tensione tra le vecchie potenze (i Cults) e le nuove minacce (l'Homo Degenesis, i Clan ribelli e i Marauders), mentre l'umanità lotta per non estinguersi definitivamente.
 
-
 ---
 
-# Il Mondo
+![Pasted image 20251213123710.png](/img/user/99.%20Vario/ZZZ_Asset/Images/Pasted%20image%2020251213123710.png)
 
-![Pasted image 20251213123710.png](/img/user/99.%20Vario/ZZZ_Asset/Pasted%20image%2020251213123710.png)
+# Il mondo
 
 ### 1. Borca (L'Eredità degli Antichi)
 
@@ -93,14 +87,14 @@ Pollen corrisponde all'incirca all'ex Polonia. È una terra biologicamente ostil
 - **Geografia:** È una vasta tundra attraversata da foreste frattali ("Fractal Forests") che nascono e muoiono rapidamente, alterando il paesaggio in modo imprevedibile. Il terreno stesso sembra vivo, respirando e cambiando sotto i piedi dei viaggiatori. A nord, la barriera di ghiaccio avanza inesorabile.
 - **Cultura:** I Pollner sono nomadi per necessità. Non possono fermarsi a lungo in un luogo perché la terra stessa si rivolta contro di loro. Vivono una vita in movimento, trascinando i loro averi su slitte, in una lotta eterna contro la natura mutata e i Biokinetics. Solo poche città, come **Wroclaw**, offrono un rifugio stabile grazie alla protezione di potenti signori locali.
 
-### 4. Balkhan (Le Terre Selvagge)
+### 4. Balkhan (Le terre Selvagge)
 
 Il Balkhan (penisola balcanica) è una regione montuosa e indomita, definita dalla forza bruta e dalla libertà.
 
 - **Geografia:** È un territorio di estremi: montagne impervie, foreste fitte e valli profonde. La natura qui è violenta e vibrante, influenzata dal cratere **Usud** che emette risonanze sismiche e sonore.
 - **Cultura:** I Balkhani sono guerrieri fieri e indipendenti. La regione è frammentata in Voivodati, territori governati da signori della guerra (Voivodes) che combattono costantemente tra loro ma si uniscono ferocemente contro qualsiasi minaccia esterna. La legge del più forte è l'unica che conta davvero, e l'ospitalità è sacra quanto la vendetta.
 
-### 5. Hybrispania (I Campi di sterminio)
+### 5. Hybrispania (I campi di sterminio)
 
 Hybrispania (Spagna) è un campo di battaglia permanente, teatro di una guerra di logoramento tra i nativi e gli invasori africani.
 
@@ -109,115 +103,164 @@ Hybrispania (Spagna) è un campo di battaglia permanente, teatro di una guerra d
     - **I Guerreros:** I nativi Hybrispanici vivono per la "Reconquista". Sono maestri della guerriglia, utilizzando tunnel e trappole per combattere un nemico tecnologicamente superiore.
     - **Al-Andalus:** Nel sud, gli africani hanno stabilito un califfato prospero e tecnologicamente avanzato, vedendo questa terra come una naturale estensione del loro impero.
 
-### 6. Purgare (La Terra degli Eletti)
+### 6. Purgare (La terra degli Eletti)
 
 Purgare (Italia) è una terra di contrasti religiosi e geografici, divisa dagli Appennini.
 
 - **Geografia:** L'ovest è una landa desolata vulcanica e tossica, avvelenata dai gas del Reaper's Blow e infestata dai Psychokinetics del cratere **Nox**,. L'est è fertile, pieno di vigneti e oliveti, un paradiso terrestre difeso con le unghie e con i denti.
 - **Cultura:** La vita in Purgare ruota attorno alla famiglia e alla fede. Le grandi famiglie controllano le risorse e la politica, spesso alleandosi con gli Anabaptists che hanno fatto di questa regione la loro roccaforte spirituale e militare (specialmente a **Cathedral City**). È una cultura che valorizza la purezza, l'acqua pulita e la forza spirituale contro la corruzione fisica del mondo.
 
-### 7. Africa (Il Leone Rampante)
+### 7. Africa (Il leone Rampante)
 
 Mentre l'Europa bruciava o congelava, l'Africa è fiorita. Il clima è cambiato, rendendo il Sahara una savana fertile e verdeggiante.
 
 - **Geografia:** Il continente è ricco e vitale, ma deve affrontare la minaccia della **Dhoruba** e della cintura di **Psychovores** (piante mutanti) che premono da sud. Le città costiere come **Tripol** sono metropoli splendenti di commercio e tecnologia.
 - **Cultura:** L'Africa è la nuova superpotenza mondiale. Unita sotto il simbolo del Leone, la sua cultura è una fusione di tradizione tribale e capitalismo sfrenato (guidato dai Neolibyans). Gli africani vedono gli europei come barbari primitivi ("Crows") da civilizzare o sfruttare. La loro società è prospera, espansionista e sicura della propria superiorità,.
 
-
 ---
 
-# I Culti
+# I culti
 
 Ecco una panoramica dei tredici Culti principali che dominano il mondo di **Degenesis**, le forze che hanno plasmato la nuova civiltà sulle ceneri del vecchio mondo. Ogni Culto possiede una propria filosofia, struttura e obiettivo.
 
-### 1. Spitalians 
+![Pasted image 20251219201115.png](/img/user/99.%20Vario/ZZZ_Asset/Images/Pasted%20image%2020251219201115.png)
 
-Gli Spitalians sono medici e guerrieri, l'ultima linea di difesa dell'umanità contro la minaccia del Primer e della Sepsi.
+## Spitaliani
+
+Gli Spitaliani sono medici e guerrieri, l'ultima linea di difesa dell'umanità contro la minaccia del Primer e della Sepsi.
 
 - **Filosofia:** Si vedono come i salvatori della razza umana. La loro missione è preservare la vita umana combattendo le malattie e distruggendo le aberrazioni genetiche (Homo Degenesis).
-- **Struttura:** Operano dallo **Spital**, la loro roccaforte medica. Sono divisi in ranghi come **Famulancers** (studenti/soldati), **Hygienists** (che controllano la purezza) e i temuti **Preservists**, l'ala militare d'élite che combatte in prima linea.
+- **Struttura:** Operano dallo **Spital**, la loro roccaforte medica. Sono divisi in ranghi come **Famulanti** (studenti/soldati), **Hygienisti** (che controllano la purezza) e i temuti **Preservisti**, l'ala militare d'élite che combatte in prima linea.
 - **Attività:** Usano fungicidi, pesticidi e fuoco per bruciare i campi di spore e le città infette. Gestiscono ospedali dove curano i malati (spesso a caro prezzo o in cambio di servigi) e monitorano rigorosamente l'igiene della popolazione per prevenire epidemie. Utilizzano i **Mollusks**, tessuti organici in provetta, per rilevare la presenza di spore o Psychonauts.
 
-### 2. Chroniclers
+---
 
-I Chroniclers sono i custodi della tecnologia e dell'informazione, discendenti degli "Streamers" pre-Eshaton. Risiedono nei **Cluster** e operano attraverso le **Alcoves** sparse per il mondo.
+![Pasted image 20251219201234.png](/img/user/99.%20Vario/ZZZ_Asset/Images/Pasted%20image%2020251219201234.png)
+
+## Chroniclers
+
+I Chroniclers sono i custodi della tecnologia e dell'informazione, discendenti degli "Streamers" pre-Eshaton. Risiedono nei **Cluster** e operano attraverso le **Alcove** sparse per il mondo.
 
 - **Filosofia:** La conoscenza è potere. Il loro obiettivo è riattivare lo **Stream**, la rete dati globale del passato, per guidare l'umanità verso una nuova età dell'oro tecnologica.
 - **Aspetto:** Nascondono i volti dietro maschere e modulano le voci con i **Vocoders** per apparire disumani e intimidatori.
 - **Attività:** Comprano artefatti dai **Scrappers** per estrarne dati o componenti. Hanno introdotto i **Chronicler Drafts**, la valuta principale di Borca e oltre. Manipolano la politica delle città agendo nell'ombra e usando le informazioni come arma.
 
-### 3. Hellvetics
+---
 
-Discendenti dell'esercito svizzero, gli Hellvetics controllano i passi alpini e la **Alpine Fortress**, una rete inespugnabile di tunnel e bunker che attraversa le montagne.
+![Pasted image 20251219201439.png](/img/user/99.%20Vario/ZZZ_Asset/Images/Pasted%20image%2020251219201439.png)
 
-- **Filosofia:** Neutralità e potenza di fuoco. Seguono una rigida **Doctrine** che li lega alla loro arma (il fucile d'assalto **Trailblazer**), ai compagni e alla fortezza.
+## Hellvetici
+
+Discendenti dell'esercito svizzero, gli Hellvetici controllano i passi alpini e la **Alpine Fortress**, una rete inespugnabile di tunnel e bunker che attraversa le montagne.
+
+- **Filosofia:** Neutralità e potenza di fuoco. Seguono una rigida **Dottrina** che li lega alla loro arma (il fucile d'assalto **Trailblazer**), ai compagni e alla fortezza.
 - **Attività:** Controllano il transito tra il nord (Borca) e il sud (Purgare/Italia) attraverso tunnel e ponti costruiti sopra il **Reaper's Blow**. Riscuotono pedaggi da chiunque voglia passare, garantendo sicurezza in cambio di denaro. Sono mercenari altamente disciplinati e temuti per la loro superiorità militare.
 
-### 4. Judges 
+---
 
-I Judges portano la legge e l'ordine nelle terre desolate, con la violenza se necessario. La loro capitale è **Justitian**, la metropoli più grande del mondo conosciuto.
+![Pasted image 20251219201648.png](/img/user/99.%20Vario/ZZZ_Asset/Images/Pasted%20image%2020251219201648.png)
+
+## Giudici
+
+I Giudici portano la legge e l'ordine nelle terre desolate, con la violenza se necessario. La loro capitale è **Justitian**, la metropoli più grande del mondo conosciuto.
 
 - **Filosofia:** La civiltà si basa sul **Codex**, il libro delle leggi scritto dal Primo Giudice. Proteggono i cittadini dai pericoli esterni e interni, ma richiedono sottomissione totale.
-- **Struttura:** Sono divisi in **Protectors** (la forza di polizia che pattuglia le strade e combatte i clan) e **Advocates** (intellettuali e politici che interpretano la legge).
-- **Attività:** Giudicano i criminali con il loro martello da giudizio (**Judgement Hammer**) e marchiano i colpevoli. Hanno creato il **Protectorate**, un'area sicura che si espande costantemente annettendo nuovi insediamenti.
+- **Struttura:** Sono divisi in **Protettori** (la forza di polizia che pattuglia le strade e combatte i clan) e **Avvocati** (intellettuali e politici che interpretano la legge).
+- **Attività:** Giudicano i criminali con il loro martello da giudizio (**Judgement Hammer**) e marchiano i colpevoli. Hanno creato il **Protettorato**, un'area sicura che si espande costantemente annettendo nuovi insediamenti.
 
-### 5. Clanners 
+---
 
-I Clanners non sono un'organizzazione unificata, ma rappresentano la vasta maggioranza della popolazione che vive in tribù, famiglie estese o bande.
+![Pasted image 20251219202115.png](/img/user/99.%20Vario/ZZZ_Asset/Images/Pasted%20image%2020251219202115.png)
+
+## Clanners
+
+I Clanner non sono un'organizzazione unificata, ma rappresentano la vasta maggioranza della popolazione che vive in tribù, famiglie estese o bande.
 
 - **Filosofia:** La sopravvivenza del gruppo è tutto. L'individuo non è nulla senza il Clan. Le tradizioni, i totem e la lealtà familiare sono i pilastri della loro esistenza.
-- **Varietà:** Variano dai **Providers** (agricoltori pacifici che nutrono Justitian) ai selvaggi **Cockroaches** che vivono nelle rovine e attaccano i convogli, fino ai nobili decaduti come gli **Exalters** o le famiglie mafiose di Purgare come i **Lombardi** o i **Benesato**.
+- **Varietà:** Variano dai **Provider** (agricoltori pacifici che nutrono Justitian) ai selvaggi **Cockroach** che vivono nelle rovine e attaccano i convogli, fino ai nobili decaduti come gli **Exalter** o le famiglie mafiose di Purgare come i **Lombardi** o i **Benesato**.
 
-### 6. Scrappers 
+---
 
-Gli Scrappers sono cercatori di tesori che setacciano le rovine alla ricerca di artefatti del passato (i Bygones).
+![Pasted image 20251219202214.png](/img/user/99.%20Vario/ZZZ_Asset/Images/Pasted%20image%2020251219202214.png)
 
-- **Filosofia:** Sperano nel "grande ritrovamento" che cambierà la loro vita. Sono pragmatici, resistenti e conoscono le rovine meglio di chiunque altro.
-- **Attività:** Scavano nella polvere e nel fango, affrontando pericoli mortali per recuperare tecnologia da vendere ai Chroniclers. Alcuni operano da soli, altri si organizzano in gruppi come il potente **Cartel** a Justitian, guidato da Bosch.
+## Scrapper
 
-### 7. Neolibyans 
+Gli Scrapper sono cercatori di tesori che setacciano le rovine alla ricerca di artefatti del passato.
+
+- **Filosofia:** Sperano sempre in un grande ritrovamento che cambierà la loro vita, un tema ricorrente nella loro cultura. Sono pragmatici, resistenti e conoscono le rovine meglio di chiunque altro.
+- **Attività:** Scavano nella polvere e nel fango, affrontando pericoli mortali per recuperare tecnologia da vendere ai Chroniclers. Alcuni operano da soli, altri si organizzano in gruppi come il potente **Cartello** a Justitian, guidato da Bosch.
+
+---
+
+![Pasted image 20251219202419.png](/img/user/99.%20Vario/ZZZ_Asset/Images/Pasted%20image%2020251219202419.png)
+
+## Neolibyan
 
 Ricchi mercanti provenienti dall'Africa, che è fiorita mentre l'Europa crollava. Sono esploratori, diplomatici e commercianti.
 
 - **Filosofia:** Tutto ha un prezzo e tutto può essere comprato. Credono nel libero mercato, nell'espansione e nel profitto. Il mondo è la loro ostrica.
-- **Attività:** Gestiscono rotte commerciali globali, portando spezie, petrolio (Petro) e medicine in Europa e riportando indietro artefatti e schiavi. La loro sede principale è la **Bank of Commerce** a Tripol. Usano la loro ricchezza per comprare influenza e potere nelle città europee.
+- **Attività:** Gestiscono rotte commerciali globali, portando spezie, petrolio (Petro) e medicine in Europa e riportando indietro artefatti e schiavi. La loro sede principale è la **Banca del Commercio** a Tripol. Usano la loro ricchezza per comprare influenza e potere nelle città europee.
 
-### 8. Scourgers 
+---
 
-Guerrieri africani che accompagnano i Neolibyans. Sono la "spada" (o meglio, gli artigli) del Leone africano.
+![Pasted image 20251219202318.png](/img/user/99.%20Vario/ZZZ_Asset/Images/Pasted%20image%2020251219202318.png)
+
+## Scourger
+
+Guerrieri africani che accompagnano i Neolibyan. Sono la "spada" (o meglio, gli artigli) del Leone africano.
 
 - **Filosofia:** Forza, onore e vendetta. Vedono gli europei come barbari primitivi che hanno meritato il loro destino. Venerano gli antenati e indossano maschere tribali in battaglia.
-- **Attività:** Proteggono i mercanti Neolibyans, cacciano schiavi e combattono le guerre dell'Africa in terra straniera (come la conquista dell'Hybrispania). Sono temuti per la loro ferocia e disciplina.
+- **Attività:** Proteggono i mercanti Neolibyan, cacciano schiavi e combattono le guerre dell'Africa in terra straniera (come la conquista dell'Hybrispania). Sono temuti per la loro ferocia e disciplina.
 
-### 9. Anubians 
+---
 
-Mistici africani legati alla morte e al ciclo della vita. Sono la "anima" della cultura africana.
+![Pasted image 20251219202530.png](/img/user/99.%20Vario/ZZZ_Asset/Images/Pasted%20image%2020251219202530.png)
+
+## Anubiani
+
+Mistici africani legati alla morte e al ciclo della vita. Sono l'anima misteriosa e sfuggente della nuova Africa.
 
 - **Filosofia:** Credono nel **Ka** (forza vitale) e nel **Ba** (corruzione). Il loro obiettivo è purificare la linea genetica umana e prepararsi per una grande trasformazione finale legata alle piramidi del Cairo.
-- **Attività:** Sono medici e ritualisti. Conoscono i segreti dei **Psychovores** (le piante mutanti africane) e creano droghe potenti e oli mistici. I loro assassini, armati di falci (**Sickles**), danno la caccia agli Psychonauts per recidere il loro legame con i Chakra terrestri.
+- **Attività:** Sono medici e ritualisti. Conoscono i segreti degli **Psychovorie** (le piante mutanti africane) e creano droghe potenti e oli mistici. I loro assassini, armati di falci, danno la caccia agli Psychonauts per recidere il loro legame con i Chakra terrestri.
 
-### 10. Jehammedans 
+---
+
+![Pasted image 20251219202919.png](/img/user/99.%20Vario/ZZZ_Asset/Images/Pasted%20image%2020251219202919.png)
+
+## Jehammedan
 
 Pastori e guerrieri religiosi che seguono gli insegnamenti dell'ultimo profeta, Jehammed.
 
 - **Filosofia:** La famiglia è sacra. Vivono in strutture patriarcali rigide (guidata dagli **Abrami**) e credono che Dio abbia punito il mondo per la sua arroganza. Rifiutano la tecnologia eccessiva e preferiscono la vita nomade o rurale.
-- **Guerrieri:** I loro combattenti scelti sono le **Swords of Jehammed** (Spade di Jehammed). Una setta interna, gli **Arianoi**, venera **Aries** (l'Ariete), un Marauder, e cerca la forza attraverso il sangue e il combattimento. Sono acerrimi nemici degli Anabaptists.
+- **Guerrieri:** I loro combattenti scelti sono le **Spade di Jehammed**. Una setta interna, gli **Arianoi**, venera **Aries** (l'Ariete), un Marauder, e cerca la forza attraverso il sangue e il combattimento. Sono acerrimi nemici degli Anabattisti.
 
-### 11. Apocalyptics 
+---
 
-Edonisti, criminali e nichilisti che vivono per il momento. Si organizzano in **Flocks** (Stormi) che prendono il nome da uccelli.
+![Pasted image 20251219202613.png](/img/user/99.%20Vario/ZZZ_Asset/Images/Pasted%20image%2020251219202613.png)
+
+## Apocalittici
+
+Edonisti, criminali e nichilisti che vivono per il momento. Si organizzano in **Stormi** che prendono il nome da uccelli.
 
 - **Filosofia:** La fine è vicina, tanto vale godersela. Soddisfano ogni vizio e desiderio umano: sesso, droga (**Burn**), gioco d'azzardo e violenza.
-- **Attività:** Gestiscono il mercato nero, il contrabbando di Burn e la prostituzione. Usano i Tarocchi per predire il futuro e prendere decisioni. Ogni stormo ha una specializzazione: le **Magpies** (Gazze) sono ladri/prostitute, i **Woodpeckers** (Picchi) gestiscono i locali, i **Ravens** (Corvi) sono i leader.
+- **Attività:** Gestiscono il mercato nero, il contrabbando di Burn e la prostituzione. Usano i Tarocchi per predire il futuro e prendere decisioni. Ogni stormo ha una specializzazione: le **Magpies** sono ladri/prostitute, i **Woodpeckers** gestiscono i locali, i **Ravens** sono i leader.
 
-### 12. Anabaptists 
+---
+
+![Pasted image 20251219202729.png](/img/user/99.%20Vario/ZZZ_Asset/Images/Pasted%20image%2020251219202729.png)
+
+## Anabattisti
 
 Fanatici religiosi che vedono il mondo post-apocalittico come un paradiso corrotto dal **Demiurgo** (le forze del Primer).
 
-- **Filosofia:** La **Neognosis**. Credono che l'umanità debba purificarsi attraverso il duro lavoro (gli **Ascetics**) o la battaglia (gli **Orgiastics**) per ascendere. Odiano la tecnologia e gli Psychonauts.
-- **Attività:** Coltivano la terra con zelo e combattono guerre sante contro le creature del Primer e gli infedeli (spesso i Jehammedans). Usano gli **Elysian Oils** per potenziarsi in battaglia e raggiungere stati di estasi mistica. La loro capitale è **Cathedral City**.
+- **Filosofia:** La **Neognosi**. Credono che l'umanità debba purificarsi attraverso il duro lavoro (gli **Ascetici**) o la battaglia (gli **Orgastici**) per ascendere. Odiano la tecnologia e gli Psiconauti.
+- **Attività:** Coltivano la terra con zelo e combattono guerre sante contro le creature del Primer e gli infedeli (spesso i Jehammedan). Usano gli **Elysian Oil** per potenziarsi in battaglia e raggiungere stati di estasi mistica. La loro capitale è **Cathedral City**.
 
-### 13. Palers
+---
+
+![Pasted image 20251219201826.png](/img/user/99.%20Vario/ZZZ_Asset/Images/Pasted%20image%2020251219201826.png)
+
+## Paler
 
 I discendenti di coloro che si rifugiarono nei bunker sotterranei (Dispensers) del Recombination Group. Hanno vissuto sottoterra per secoli.
 
