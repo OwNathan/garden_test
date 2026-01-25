@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100-degenesis-garden/mappa/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/100-degenesis-garden/mappa/"}
 ---
 
 
