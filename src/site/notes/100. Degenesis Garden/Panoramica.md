@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/100-degenesis-garden/panoramica/"}
 ---
 
-
-# Storia
-
 ## 1. L'eshaton (2073) e la fine del vecchio mondo
 
 La storia moderna inizia con la catastrofe definitiva: l'Eshaton. Nel 2073, uno sciame di asteroidi colpì la Terra, devastando la civiltà umana. L'impatto fu devastante, frantumando la crosta terrestre e causando terremoti, tsunami e tempeste di fuoco che cancellarono 10.000 anni di cultura in un solo giorno.

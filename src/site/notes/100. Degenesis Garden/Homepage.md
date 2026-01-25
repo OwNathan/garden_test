@@ -2,14 +2,9 @@
 {"dg-publish":true,"permalink":"/100-degenesis-garden/homepage/","tags":["gardenEntry"]}
 ---
 
-# Mappa
+> [!important] Link Utili
+> - #### [[100. Degenesis Garden/Mappa\|Mappa]]
+> 	- La mappa dinamica del mondo su cui mettiamo le cose belle.
+> -  #### [[100. Degenesis Garden/Panoramica\|Panoramica]]
+> 	- Panoramica del mondo di gioco.
 
-<iframe class="map-container" src="https://ownathan.github.io/TestRpgWigdets/map.html" frameborder="0" allow="fullscreen"></iframe>
-
-
-# Test Resize
-
-<iframe src="https://OwNathan.github.io/TestRpgWigdets/LargeReputationWidget.html?sheetId=1V2KganEwaOUCPIvh8_iQTfsgf4uNXFUx_13xTtSFxxI" style="width:100%; height:100%; border:none;"></iframe>
-
-
-<iframe src="https://OwNathan.github.io/TestRpgWigdets/NPCWidget.html?sheetId=1qmfeFxPeAmccrxF7qggzWwpNchkpsw6wsTco-2cvRXw" style="width:100%; height:100%; border:none;"></iframe>
