@@ -6,7 +6,6 @@
 
 
 > [!cards|4]
-> 
 > - #### [[100. Degenesis Garden/Panoramica\|Panoramica]] 
 >     - Panoramica del mondo di gioco.
 >       
