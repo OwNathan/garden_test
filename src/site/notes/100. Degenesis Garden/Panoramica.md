@@ -9,7 +9,10 @@ La storia moderna inizia con la catastrofe definitiva: l'Eshaton. Nel 2073, uno 
 L'Europa fu colpita duramente, divisa fisicamente da una frattura tettonica nota come **Reaper's Blow**, che corre dalla Scandinavia fino al Mediterraneo, separando il continente. In Africa, un asteroide colpì la regione tra il Sudan e il bacino del Congo, creando una cicatrice nota come **Dhoruba** e distruggendo vaste aree con un'onda d'urto atmosferica.
 
 
-a
+
+> [!recite|no-title]
+> assdasd
+
 ## 2. Il primer e l'homo degenesis
 
 Gli asteroidi non portarono solo distruzione cinetica; portavano il **Primer**, una sostanza aliena che iniziò a terraformare il pianeta e a riscrivere il DNA dell'umanità. Il Primer si manifesta attraverso la **Sepsi**, una rete fungina che copre la terra e produce **Spore**. Coloro che inalano o ingeriscono le Spore (spesso tramite una droga chiamata **Burn**) subiscono mutazioni genetiche o diventano portatori, noti come **Leperos**.
