@@ -42,6 +42,20 @@ Prima dell'Eshaton, una corporazione chiamata Recombination Group (RG) avviò il
 
 Nel 2146 sorse la città di **Exalt** nell'Est di Borca, fondata dalla "Nameless Tribe" che scoprì una struttura sotterranea chiamata **Grindworks**. Questa struttura permetteva di rimuovere il condizionamento mentale e potenziare gli umani ("embossing"). Exalt divenne una civiltà basata sull'ideologia del "Free Spirit", in diretta opposizione al piano del Project Tannhäuser. Tuttavia, la città cadde nel caos e nel nichilismo, culminando nelle **City Wars** intorno al 2482, dove Exalt combattè contro gli Sleepers, gli Anabaptists e i Machine Men di Noret. La città fu distrutta e i suoi abitanti si dispersero o fuggirono a **Liqua**.
 
+> [!infobox]
+> # Name
+> ![[Image.png\|cover hsmall]]
+> ###### Stats
+> | Type | Stat |
+> | ---- | ---- |
+> | Test | Testing |
+> | Test | Testing |
+> 
+> ##### Stats 2
+> | Type | Stat |
+> | ---- | ---- |
+> | Test | Testing |
+> | Test | Testing |
 ### 6. Eventi attuali (2595-2597)
 
 Oggi il mondo è sull'orlo di nuovi conflitti:
