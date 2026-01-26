@@ -81,6 +81,10 @@ graph LR
     style BATTISTA fill:#000,color:#fff,stroke:#fff
 ```
 
+#####
+
+
+
 ---
 ### Relazioni Esterne
 *   **Spitaliani:** Sono i loro alleati più stretti. Sebbene gli Anabattisti li considerino privi di spiritualità, rispettano la loro efficacia nella lotta contro la Sepsi e gli Psiconauti.
