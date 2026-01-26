@@ -6,17 +6,17 @@
 
 
 > [!cards|4]
-> - #### [[100. Degenesis Garden/Panoramica\|Panoramica]] 
->     - Panoramica del mondo di gioco.
->       
-> - #### [[100. Degenesis Garden/Mappa\|Mappa]]
->     - La mappa dinamica del mondo su cui mettiamo le cose belle.
->       
-> - #### [[100. Degenesis Garden/Regole/Lista Oggetti\|Lista Oggetti]]
-> 	- Elenco di tutti gli oggetti con indice di pagina dove si trovano.
-> 	  
-> - #### [[100. Degenesis Garden/Regole/Lista Potentials\|Lista Potentials]]
-> 	- Elenco di tutti i potentials con descrizione.
+>  **[[100. Degenesis Garden/Panoramica\|Panoramica]]** 
+> Panoramica del mondo di gioco.
+>  
+> **[[100. Degenesis Garden/Mappa\|Mappa]]**
+> La mappa dinamica del mondo su cui mettiamo le cose belle.
+>   
+> **[[100. Degenesis Garden/Regole/Lista Oggetti\|Lista Oggetti]]**
+> Elenco di tutti gli oggetti con indice di pagina dove si trovano.
+> 
+> **[[100. Degenesis Garden/Regole/Lista Potentials\|Lista Potentials]]**
+> Elenco di tutti i potentials con descrizione.
 
 
 ---
