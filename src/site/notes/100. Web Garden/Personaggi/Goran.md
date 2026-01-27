@@ -3,7 +3,7 @@
 ---
 
 
-> [!infobox|wfull]
+> [!fas-infobox|wfull]
 > # Goran
 > ![Anabattisti-1769432327160.png|cover hmed](/img/user/99.%20Vario/ZZZ_Asset/Images/Anabattisti-1769432327160.png)
 > ###### Figlio del sole
