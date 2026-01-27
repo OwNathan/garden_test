@@ -43,7 +43,7 @@
     --text-highlight-bg: rgba(148, 49, 49, 0.575);
     --text-highlight-bg-active: rgba(253, 115, 115, 0.25);
     --text-selection: rgba(126, 26, 26, 0.27);
-    --td: rgba(12,9,6,0.38);
+    --td: rgba(27,31,640,0.38);
 
     --sphd-pre-1: var(--i-at);
     --sphd-pre-2: var(--headers);
@@ -95,6 +95,6 @@ body.theme-light {
 
 h1, h2, h3 {
     font-variant: small-caps !important;   /* Trasforma in maiuscoletto */
-    letter-spacing: 0.05em;    /* Fondamentale: il maiuscoletto respira meglio con un po' di spazio */
+    letter-spacing: 0.08em;    /* Fondamentale: il maiuscoletto respira meglio con un po' di spazio */
     font-weight: 700;          /* Rende l'effetto più marcato */
 }
