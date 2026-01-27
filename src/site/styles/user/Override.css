@@ -59,8 +59,7 @@
 	--bold-modifier: 400;
 	--bold-color: #D3BEA3;
 	--italic-color: #AAC6E2;
-    --font: "Inter", Roboto, sans-serif;
-	--font: "Inter", Roboto, sans-serif;
+	--font: Roboto, sans-serif;
     --h1-font: var(--font);
     --h2-font: var(--font);
     --h3-font: var(--font);
