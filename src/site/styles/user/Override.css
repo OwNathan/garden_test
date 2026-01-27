@@ -60,10 +60,10 @@
 	--bold-modifier: 300;
 	--bold-color: #D3BEA3;
 	--italic-color: #AAC6E2;
-    --font-default: Roboto, sans-serif;
+    --font-default: Inter, Roboto, sans-serif;
     --font-monospace: "Fira Code", "Fira Code Medium", "Source Code Pro", monospace;
-    --font: Roboto, sans-serif;
-    --font-text: Roboto, sans-serif;
+    --font: Inter, Roboto, sans-serif;
+    --font-text: Inter, Roboto, sans-serif;
     --font-monospace-default: "Fira Code", "Fira Code Medium", "Source Code Pro", monospace;
     --font-interface: var(--font-interface-override), var(--font-default);
     --h1-font: var(--font);
@@ -77,10 +77,10 @@
 
 body.theme-dark,
 body.theme-light {
-    --font-default: Roboto, sans-serif;
+    --font-default: Inter, Roboto, sans-serif;
     --font-monospace: "Fira Code", "Fira Code Medium", "Source Code Pro", monospace;
-    --font: Roboto, sans-serif;
-    --font-text: Roboto, sans-serif;
+    --font: Inter, Roboto, sans-serif;
+    --font-text: Inter, Roboto, sans-serif;
     --font-monospace-default: "Fira Code", "Fira Code Medium", "Source Code Pro", monospace;
     --font-interface: var(--font-interface-override), var(--font-default);
     --h1-font: var(--font);
