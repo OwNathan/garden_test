@@ -94,7 +94,7 @@ body.theme-light {
 
 
 h1, h2, h3 {
-    font-variant: small-caps;   /* Trasforma in maiuscoletto */
+    font-variant: small-caps !important;   /* Trasforma in maiuscoletto */
     letter-spacing: 0.05em;    /* Fondamentale: il maiuscoletto respira meglio con un po' di spazio */
     font-weight: 700;          /* Rende l'effetto più marcato */
 }
