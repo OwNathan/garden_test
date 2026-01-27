@@ -57,7 +57,7 @@
     --sphd-ed-4: var(--tag);
     --sphd-ed-5: var(--table);
     --sphd-ed-6: var(--dark-sidebar);
-	--bold-modifier: 300;
+	--bold-modifier: 300 !important;
 	--bold-color: #D3BEA3;
 	--italic-color: #AAC6E2;
     --font-default: Inter, Roboto, sans-serif;
