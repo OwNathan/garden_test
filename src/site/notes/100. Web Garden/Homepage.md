@@ -5,7 +5,7 @@
 ## Link Interni
 
 
-> [!cards|4]
+> [!cards|2 notion]
 >  **[[100. Web Garden/Panoramica\|Panoramica]]** 
 > Panoramica del mondo di gioco.
 >  
@@ -17,6 +17,15 @@
 > 
 > **[[100. Web Garden/Regole/Lista Potentials\|Lista Potentials]]**
 > Elenco di tutti i potentials con descrizione.
+
+
+
+> [!infobox|center]
+> # Heading
+> ![Pasted image 20251228002055.png](/img/user/99.%20Vario/ZZZ_Asset/Images/Pasted%20image%2020251228002055.png)
+
+
+
 
 
 ---
