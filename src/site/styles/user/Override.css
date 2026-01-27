@@ -16,7 +16,7 @@
     --interactive-accent: var(--headers);
     --interactive-accent-hover: var(--lite-accent);
 
-    --side-bar: var(--note);
+    --side-bar: #0C0E0F;
     --outer-bar: #21232F;
     --note: #0C0E0F;
     --text: #D8DEE4;
@@ -26,7 +26,7 @@
     --accent: #D74B40;
     --lite-accent: #D6594F;
     --folder: #D8AF97;
-    --headers: #DF7B41;
+    --headers: #E22D2D;
     --code-text: #FA8A45;
     --i-at: #BF7F5E;
 
@@ -38,10 +38,10 @@
     --hr: #744F3C;
     --tag: #572D1A;
 
-    --background-modifier-form-field-highlighted: rgba(237,101,52,0.13);
-    --text-highlight-bg: rgba(148, 87, 49, 0.575);
-    --text-highlight-bg-active: rgba(253,162,115,0.25);
-    --text-selection: rgba(126,57,26,0.27);
+    --background-modifier-form-field-highlighted: rgba(237, 52, 52, 0.13);
+    --text-highlight-bg: rgba(148, 49, 49, 0.575);
+    --text-highlight-bg-active: rgba(253, 115, 115, 0.25);
+    --text-selection: rgba(126, 26, 26, 0.27);
     --td: rgba(12,9,6,0.38);
 
     --sphd-pre-1: var(--i-at);
@@ -56,9 +56,15 @@
     --sphd-ed-4: var(--tag);
     --sphd-ed-5: var(--table);
     --sphd-ed-6: var(--dark-sidebar);
-	--bold-modifier: 500;
+	--bold-modifier: 400;
 	--bold-color: #D3BEA3;
 	--italic-color: #AAC6E2;
 	--font-default: "Inter";
 	--font: "Inter";
+    --h1-font: var(--font);
+    --h2-font: var(--font);
+    --h3-font: var(--font);
+    --h4-font: var(--font);
+    --h5-font: var(--font);
+    --h6-font: var(--font);
 }
