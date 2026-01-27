@@ -1,8 +1,5 @@
 /*----Theme: Tangerine Dunes----*/
-.theme-dark, .theme-light {
-    --hr-sym: "\e564";
-    --hr-f: var(--mdi);
-}
+
 
 .theme-dark {
     --background-primary: var(--note);
