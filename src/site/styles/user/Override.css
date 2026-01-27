@@ -1,0 +1,100 @@
+.theme-dark,
+.theme-light {
+    --background-primary: var(--note);
+    --background-primary-alt: var(--deep-dark-accent);
+    --background-secondary: var(--side-bar);
+    --background-secondary-alt: var(--outer-bar);
+
+    --background-modifier-border: var(--table);
+    
+    --text-normal: var(--text); 
+    --text-muted: var(--soft-text);
+    --text-accent: var(--accent2-lite);
+    --text-accent-hover: var(--accent2);
+
+    --interactive-normal: var(--accent);
+    --interactive-hover: var(--embed-bg);
+    --interactive-accent: var(--headers);
+    --interactive-accent-hover: var(--lite-accent);
+
+    --side-bar: #0C0E0F;
+    --outer-bar: #21232F;
+    --note: #0C0E0F;
+    --text: #D8DEE4;
+
+    /**/
+    --dark-accent: #AE2124;
+    --accent: #D74B40;
+    --lite-accent: #D6594F;
+    --folder: #D8AF97;
+    --headers: #E22D2D;
+    --code-text: #FA8A45;
+    --i-at: #bf5e5e;
+
+    --accent2: #E56138;
+    --table: #462828;
+    --accent2-lite: #E57038;
+    --deep-dark-accent: #62250F;
+    --f-icon: #8f2b2b;
+    --hr: #743c3c;
+    --tag: #571a1a;
+
+    --background-modifier-form-field-highlighted: rgba(237, 52, 52, 0.13);
+    --text-highlight-bg: rgba(148, 49, 49, 0.575);
+    --text-highlight-bg-active: rgba(253, 115, 115, 0.25);
+    --text-selection: rgba(126, 26, 26, 0.27);
+    --td: rgba(12,9,6,0.38);
+
+    --sphd-pre-1: var(--i-at);
+    --sphd-pre-2: var(--headers);
+    --sphd-pre-3: var(--accent2);
+    --sphd-pre-4: var(--tag);
+    --sphd-pre-5: var(--table);
+    --sphd-pre-6: var(--dark-sidebar);
+    --sphd-ed-1: var(--i-at);
+    --sphd-ed-2: var(--headers);
+    --sphd-ed-3: var(--accent2);
+    --sphd-ed-4: var(--tag);
+    --sphd-ed-5: var(--table);
+    --sphd-ed-6: var(--dark-sidebar);
+	--bold-modifier: 300 !important;
+	--bold-color: #D3BEA3;
+	--italic-color: #AAC6E2;
+    --font-default: Inter, Roboto, sans-serif;
+    --font-monospace: "Fira Code", "Fira Code Medium", "Source Code Pro", monospace;
+    --font: Inter, Roboto, sans-serif;
+    --font-text: Inter, Roboto, sans-serif;
+    --font-monospace-default: "Fira Code", "Fira Code Medium", "Source Code Pro", monospace;
+    --font-interface: var(--font-interface-override), var(--font-default);
+    --h1-font: var(--font);
+    --h2-font: var(--font);
+    --h3-font: var(--font);
+    --h4-font: var(--font);
+    --h5-font: var(--font);
+    --h6-font: var(--font);
+
+}
+
+body.theme-dark,
+body.theme-light {
+    --font-default: Inter, Roboto, sans-serif;
+    --font-monospace: "Fira Code", "Fira Code Medium", "Source Code Pro", monospace;
+    --font: Inter, Roboto, sans-serif;
+    --font-text: Inter, Roboto, sans-serif;
+    --font-monospace-default: "Fira Code", "Fira Code Medium", "Source Code Pro", monospace;
+    --font-interface: var(--font-interface-override), var(--font-default);
+    --h1-font: var(--font);
+    --h2-font: var(--font);
+    --h3-font: var(--font);
+    --h4-font: var(--font);
+    --h5-font: var(--font);
+    --h6-font: var(--font);
+    
+}
+
+
+h1, h2, h3 {
+    font-variant: small-caps !important;   /* Trasforma in maiuscoletto */
+    letter-spacing: 0.05em;    /* Fondamentale: il maiuscoletto respira meglio con un po' di spazio */
+    font-weight: 700;          /* Rende l'effetto più marcato */
+}
