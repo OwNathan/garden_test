@@ -1,4 +1,5 @@
-.theme-dark {
+.theme-dark,
+.theme-light {
     --background-primary: var(--note);
     --background-primary-alt: var(--deep-dark-accent);
     --background-secondary: var(--side-bar);
