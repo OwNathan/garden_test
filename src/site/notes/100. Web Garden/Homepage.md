@@ -5,24 +5,21 @@
 ## Link Interni
 
 
-> [!cards|2 notion]
->  **[[100. Web Garden/Panoramica\|Panoramica]]** 
-> Panoramica del mondo di gioco.
->  
-> **[[100. Web Garden/Mappa\|Mappa]]**
-> La mappa dinamica del mondo su cui mettiamo le cose belle.
->   
-> **[[100. Web Garden/Regole/Lista Oggetti\|Lista Oggetti]]**
-> Elenco di tutti gli oggetti con indice di pagina dove si trovano.
-> 
-> **[[100. Web Garden/Regole/Lista Potentials\|Lista Potentials]]**
-> Elenco di tutti i potentials con descrizione.
+> [!columns|3 no-title] 
+> > [!info|no-title txt-c] 
+> > a
 
 
+**[[100. Web Garden/Panoramica\|Panoramica]]**
 
-> [!infobox|center]
-> # Heading
-> ![Pasted image 20251228002055.png](/img/user/99.%20Vario/ZZZ_Asset/Images/Pasted%20image%2020251228002055.png)
+[[100. Web Garden/Mappa\|Mappa]]
+La mappa dinamica del mondo su cui mettiamo le cose belle.
+
+[[100. Web Garden/Regole/Lista Oggetti\|Lista Oggetti]]
+Elenco di tutti gli oggetti con indice di pagina dove si trovano.
+
+[[100. Web Garden/Regole/Lista Potentials\|Lista Potentials]]
+Elenco di tutti i potentials con descrizione.
 
 
 
