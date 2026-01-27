@@ -29,15 +29,15 @@
     --folder: #D8AF97;
     --headers: #E22D2D;
     --code-text: #FA8A45;
-    --i-at: #BF7F5E;
+    --i-at: #bf5e5e;
 
     --accent2: #E56138;
-    --table: #463228;
+    --table: #462828;
     --accent2-lite: #E57038;
     --deep-dark-accent: #62250F;
-    --f-icon: #8F3F2B;
-    --hr: #744F3C;
-    --tag: #572D1A;
+    --f-icon: #8f2b2b;
+    --hr: #743c3c;
+    --tag: #571a1a;
 
     --background-modifier-form-field-highlighted: rgba(237, 52, 52, 0.13);
     --text-highlight-bg: rgba(148, 49, 49, 0.575);
@@ -57,7 +57,7 @@
     --sphd-ed-4: var(--tag);
     --sphd-ed-5: var(--table);
     --sphd-ed-6: var(--dark-sidebar);
-	--bold-modifier: 400;
+	--bold-modifier: 300;
 	--bold-color: #D3BEA3;
 	--italic-color: #AAC6E2;
     --font-default: Roboto, sans-serif;
