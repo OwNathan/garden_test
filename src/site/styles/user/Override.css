@@ -1,6 +1,3 @@
-/*----Theme: Tangerine Dunes----*/
-
-
 .theme-dark {
     --background-primary: var(--note);
     --background-primary-alt: var(--deep-dark-accent);
@@ -63,4 +60,5 @@
 	--bold-color: #D3BEA3;
 	--italic-color: #AAC6E2;
 	--font-default: "Inter";
+	--font: "Inter";
 }
