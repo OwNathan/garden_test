@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100-degenesis-garden/panoramica/"}
+{"dg-publish":true,"dg-path":"Panoramica.md","permalink":"/panoramica/"}
 ---
 
 ## 1. L'eshaton (2073) e la fine del vecchio mondo

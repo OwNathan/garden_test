@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100-degenesis-garden/regole/lista-potentials/"}
+{"dg-publish":true,"dg-path":"Regole/Lista Potentials.md","permalink":"/regole/lista-potentials/"}
 ---
 
 

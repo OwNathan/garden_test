@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100-degenesis-garden/culti/anabattisti/"}
+{"dg-publish":true,"dg-path":"Culti/Anabattisti.md","permalink":"/culti/anabattisti/"}
 ---
 
 # Anabattisti

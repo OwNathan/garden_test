@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/100-degenesis-garden/homepage/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"Homepage.md","permalink":"/homepage/","tags":["gardenEntry"]}
 ---
 
 ## Link Interni
 
 
 > [!cards|4]
->  **[[100. Degenesis Garden/Panoramica\|Panoramica]]** 
+>  **[[100. Web Garden/Panoramica\|Panoramica]]** 
 > Panoramica del mondo di gioco.
 >  
-> **[[100. Degenesis Garden/Mappa\|Mappa]]**
+> **[[100. Web Garden/Mappa\|Mappa]]**
 > La mappa dinamica del mondo su cui mettiamo le cose belle.
 >   
-> **[[100. Degenesis Garden/Regole/Lista Oggetti\|Lista Oggetti]]**
+> **[[100. Web Garden/Regole/Lista Oggetti\|Lista Oggetti]]**
 > Elenco di tutti gli oggetti con indice di pagina dove si trovano.
 > 
-> **[[100. Degenesis Garden/Regole/Lista Potentials\|Lista Potentials]]**
+> **[[100. Web Garden/Regole/Lista Potentials\|Lista Potentials]]**
 > Elenco di tutti i potentials con descrizione.
 
 

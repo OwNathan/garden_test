@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100-degenesis-garden/regole/lista-oggetti/"}
+{"dg-publish":true,"dg-path":"Regole/Lista Oggetti.md","permalink":"/regole/lista-oggetti/"}
 ---
 
 

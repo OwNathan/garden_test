@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100-degenesis-garden/personaggi/goran/"}
+{"dg-publish":true,"dg-path":"Personaggi/Goran.md","permalink":"/personaggi/goran/"}
 ---
 
 
@@ -12,7 +12,7 @@
 > | **Fazione** | Bucciari |
 > | **Rango** | *Sconosciuto* |
 > 
-> |  |  |
+> | asdasd | asdads|
 > | ---- | ---- |
 > | **Stato** | Morto |
 > | **Attitudine** | Alleato |
@@ -24,6 +24,12 @@
 
 
 
-Goran è il mio migliore bros
+*Goran* è il mio `migliore` bros
 
+# RTsdasdads
 
+## asdasdsa
+
+### asdasds
+
+#### 2dasdasd

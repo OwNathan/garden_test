@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100-degenesis-garden/mappa/"}
+{"dg-publish":true,"dg-path":"Mappa.md","permalink":"/mappa/"}
 ---
 
 
