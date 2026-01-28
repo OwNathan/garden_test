@@ -7,6 +7,7 @@
 > ![02-CULT-CHRONICLERS 1.png](/img/user/99.%20Vario/ZZZ_Asset/Images%20Degenesis/Logos%20White%20PNG/02-CULT-CHRONICLERS%201.png)
  **[Galleria](https://drive.google.com/drive/folders/1ew1T-fDteGn7r34FTGbpaNVQg_xKFLhY?usp=sharing)** 
 
+### Filosofia e Obiettivi: Il Dio Digitale
 
 I Chronicler sono i custodi della tecnologia e dell'informazione nell'Europa post-apocalittica. Si considerano gli eredi degli Streamer dell'Era Passata e il loro obiettivo supremo è la **riattivazione dello Stream**, l'antica rete dati globale che collassò con l'Eshaton.
 
