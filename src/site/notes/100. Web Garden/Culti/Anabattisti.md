@@ -4,10 +4,12 @@
 
 # Anabattisti - Le guide nel Paradiso
 
+
 ![12-CULT-ANABAPTISTS 1.png| right](/img/user/99.%20Vario/ZZZ_Asset/Images%20Degenesis/Logos%20White%20PNG/12-CULT-ANABAPTISTS%201.png)
 
 
 > [!metadata] **[Galleria](https://drive.google.com/drive/folders/1WWMS4hx1hWbTlbkAhZHRKYJICSxCOelQ?usp=sharing)** 
+
 
 ### Filosofia e Credo: La Neognosi
 Gli Anabattisti si vedono come i prescelti impegnati in una battaglia cosmica per la salvezza dell'umanità e la restaurazione del Paradiso perduto. Il loro credo, fondato da **Rebus il Battista**, si basa sulla **Neognosi**.
@@ -33,53 +35,94 @@ La società anabattista è divisa in due caste principali, entrambe essenziali m
 
 ```mermaid
 graph LR
-    %% Definizione Nodi
-    N1((1)) --- SFIORATO[SFIORATO]
 
-    %% Bivio iniziale
-    SFIORATO --- N2A((2))
-    SFIORATO --- N2B((2))
+    %% Definizione Nodi
 
-    N2A --- ORGIASTICO[ORGIASTICO]
-    N2B --- ASCETA[ASCETA]
+    N1((1)) --- SFIORATO[SFIORATO]
 
-    %% Livello 3
-    ORGIASTICO --- N3A((3))
-    ASCETA --- N3B((3))
+  
+  
 
-    N3A --- FURORE[FURORE]
-    N3B --- ELISIO[ELISIO]
+    SFIORATO --- N2A((2))
 
-    %% L'incrocio centrale (X)
-    FURORE --- N4A((4))
-    FURORE --- N4B((4))
-    ELISIO --- N4A
-    ELISIO --- N4B
+    SFIORATO --- N2B((2))
 
-    %% Livello 4 e oltre
-    N4A --- SUBLIME[SUBLIME]
-    N4B --- EMISSARIO[EMISSARIO]
+  
 
-    SUBLIME --- N5A((5))
-    N5A --- ACHERONTE[ACHERONTE]
+    N2A --- ORGIASTICO[ORGIASTICO]
 
-    EMISSARIO --- N5B((5))
-    N5B --- CONSIGLIERE[CONSIGLIERE]
-    
-    CONSIGLIERE --- N6((6))
-    N6 --- BATTISTA[BATTISTA]
+    N2B --- ASCETA[ASCETA]
 
-    %% Styling per somigliare all'immagine
-    style SFIORATO fill:#000,color:#fff,stroke:#fff
-    style ORGIASTICO fill:#000,color:#fff,stroke:#fff
-    style ASCETA fill:#000,color:#fff,stroke:#fff
-    style FURORE fill:#000,color:#fff,stroke:#fff
-    style ELISIO fill:#000,color:#fff,stroke:#fff
-    style SUBLIME fill:#000,color:#fff,stroke:#fff
-    style EMISSARIO fill:#000,color:#fff,stroke:#fff
-    style ACHERONTE fill:#000,color:#fff,stroke:#fff
-    style CONSIGLIERE fill:#000,color:#fff,stroke:#fff
-    style BATTISTA fill:#000,color:#fff,stroke:#fff
+  
+  
+
+    ORGIASTICO --- N3A((3))
+
+    ASCETA --- N3B((3))
+
+  
+
+    N3A --- FURORE[FURORE]
+
+    N3B --- ELISIO[ELISIO]
+
+  
+  
+
+    FURORE --- N4A((4))
+
+    FURORE --- N4B((4))
+
+    ELISIO --- N4A
+
+    ELISIO --- N4B
+
+  
+  
+
+    N4A --- SUBLIME[SUBLIME]
+
+    N4B --- EMISSARIO[EMISSARIO]
+
+  
+
+    SUBLIME --- N5A((5))
+
+    N5A --- ACHERONTE[ACHERONTE]
+
+  
+
+    EMISSARIO --- N5B((5))
+
+    N5B --- CONSIGLIERE[CONSIGLIERE]
+
+    CONSIGLIERE --- N6((6))
+
+    N6 --- BATTISTA[BATTISTA]
+
+  
+
+    %% Styling per somigliare all'immagine
+
+    style SFIORATO fill:#FFF,color:#000,stroke:#000
+
+    style ORGIASTICO fill:#FFF,color:#000,stroke:#000
+
+    style ASCETA fill:#FFF,color:#000,stroke:#000
+
+    style FURORE fill:#FFF,color:#000,stroke:#000
+
+    style ELISIO fill:#FFF,color:#000,stroke:#000
+
+    style SUBLIME fill:#FFF,color:#000,stroke:#000
+
+    style EMISSARIO fill:#FFF,color:#000,stroke:#000
+
+    style ACHERONTE fill:#FFF,color:#000,stroke:#000
+
+    style CONSIGLIERE fill:#FFF,color:#000,stroke:#000
+
+    style BATTISTA fill:#FFF,color:#000,stroke:#000
 ```
 
 
