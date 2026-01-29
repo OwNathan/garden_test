@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Culti/Chronicler.md","permalink":"/culti/chronicler/"}
 ---
 
-# Chronicler - 
+# Chronicler - Gli Onniscenti
 > [!metadata|no-title right text-center]
 > ![02-CULT-CHRONICLERS 1.png](/img/user/99.%20Vario/ZZZ_Asset/Images%20Degenesis/Logos%20White%20PNG/02-CULT-CHRONICLERS%201.png)
  **[Galleria](https://drive.google.com/drive/folders/1ew1T-fDteGn7r34FTGbpaNVQg_xKFLhY?usp=sharing)** 
@@ -34,7 +34,163 @@ I Chronicler dominano l'economia della Borca (e di parte dell'Europa) attraverso
 - **Il Cluster:** Il cuore del culto è il **Cluster Centrale** a Justitian, un enorme complesso di server, pannelli solari e generatori dove risiede l'intelligenza collettiva del culto. Esistono Cluster minori in altre città (es. Aquitania).
 - **Alcove:** Avamposti commerciali fortificati sparsi per le terre desolate dove i Mediatori scambiano Draft per artefatti e informazioni.
 
+```mermaid
+graph LR
 
+  
+
+    %% Definizione Nodi
+
+  
+
+    N1((1)) --- BIT[BIT]
+
+  
+
+  
+
+    BIT --- N2A((2))
+
+  
+
+  
+
+    N2A --- AGENTE[AGENTE]
+
+  
+
+  
+
+    AGENTE --- N3A((3))
+
+  
+
+    AGENTE --- N3B((3))
+
+  
+
+  
+
+    N3A --- MEDIATORE[MEDIATORE]
+
+  
+
+    N3B --- SHUTTER[SHUTTER]
+
+  
+
+  
+
+    MEDIATORE --- N4A((4))
+
+  
+
+    SHUTTER --- N4B((4))
+
+  
+  
+
+  
+
+    N4A --- STREAMER[STREAMER]
+
+  
+
+    N4B --- FUSE[FUSE]
+
+  
+
+  
+
+    STREAMER --- N5A((5))
+
+  
+
+    FUSE --- N5B((5))
+
+  
+  
+  
+
+    N5A --- FRAGMENT[FRAGMENT]
+
+  
+
+    N5A --- PARADIGMA[PARADIGMA]
+
+  
+
+  
+  
+
+    N5B --- SCALAR[SCALAR]
+
+  
+  
+  
+  
+
+    N0((0)) --- ZERO[ZERO]
+
+  
+
+    ZERO --- NX((X))
+
+  
+
+    NX --- NEEDLE[NEEDLE]
+
+  
+
+  
+  
+
+    %% Styling per somigliare all'immagine
+
+  
+
+    style NEEDLE fill:#d8dede,color:#000,stroke:#000
+
+  
+
+    style ZERO fill:#d8dede,color:#000,stroke:#000
+
+  
+
+    style BIT fill:#d8dede,color:#000,stroke:#000
+
+  
+
+    style MEDIATORE fill:#d8dede,color:#000,stroke:#000
+
+  
+
+    style AGENTE fill:#d8dede,color:#000,stroke:#000
+
+  
+
+    style STREAMER fill:#d8dede,color:#000,stroke:#000
+
+  
+
+    style FRAGMENT fill:#d8dede,color:#000,stroke:#000
+
+  
+
+    style PARADIGMA fill:#d8dede,color:#000,stroke:#000
+
+  
+
+    style SHUTTER fill:#d8dede,color:#000,stroke:#000
+
+  
+
+    style FUSE fill:#d8dede,color:#000,stroke:#000
+
+  
+
+    style SCALAR fill:#d8dede,color:#000,stroke:#000
+```
 
 ##### I Ranghi Standard 
 

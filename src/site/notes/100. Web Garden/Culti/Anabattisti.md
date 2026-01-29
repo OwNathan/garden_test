@@ -103,25 +103,25 @@ graph LR
 
     %% Styling per somigliare all'immagine
 
-    style SFIORATO fill:#FFF,color:#000,stroke:#000
+    style SFIORATO fill:#d8dede,color:#000,stroke:#000
 
-    style ORGIASTICO fill:#FFF,color:#000,stroke:#000
+    style ORGIASTICO fill:#d8dede,color:#000,stroke:#000
 
-    style ASCETA fill:#FFF,color:#000,stroke:#000
+    style ASCETA fill:#d8dede,color:#000,stroke:#000
 
-    style FURORE fill:#FFF,color:#000,stroke:#000
+    style FURORE fill:#d8dede,color:#000,stroke:#000
 
-    style ELISIO fill:#FFF,color:#000,stroke:#000
+    style ELISIO fill:#d8dede,color:#000,stroke:#000
 
-    style SUBLIME fill:#FFF,color:#000,stroke:#000
+    style SUBLIME fill:#d8dede,color:#000,stroke:#000
 
-    style EMISSARIO fill:#FFF,color:#000,stroke:#000
+    style EMISSARIO fill:#d8dede,color:#000,stroke:#000
 
-    style ACHERONTE fill:#FFF,color:#000,stroke:#000
+    style ACHERONTE fill:#d8dede,color:#000,stroke:#000
 
-    style CONSIGLIERE fill:#FFF,color:#000,stroke:#000
+    style CONSIGLIERE fill:#d8dede,color:#000,stroke:#000
 
-    style BATTISTA fill:#FFF,color:#000,stroke:#000
+    style BATTISTA fill:#d8dede,color:#000,stroke:#000
 ```
 
 

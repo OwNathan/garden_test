@@ -8,7 +8,7 @@
 	- Descrizione generale del mondo.
 - #### [[100. Web Garden/Mappa\|Mappa]]
 	- La mappa dinamica del mondo su cui mettiamo le cose belle.
-- #### [[100. Web Garden/Regole/Lista Oggetti\|Lista Oggetti]]
+- #### [[100. Web Garden/Regole/Lista Oggetti\|100. Web Garden/Regole/Lista Oggetti]]
 	- Elenco di tutti gli oggetti con indice di pagina dove si trovano.
 - #### [[100. Web Garden/Regole/Lista Potentials\|Lista Potentials]]
 	- Elenco di tutti i potentials con descrizione.
