@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"Personaggi/Gustav.md","permalink":"/personaggi/gustav/"}
+{"dg-publish":true,"dg-path":"Personaggi/Gustav.md","permalink":"/personaggi/gustav/","tags":["ttrpg/personaggio"]}
 ---
 
 
 > [!infobox|wfull] 
 > # Gustav
-> ![gustav_small.png|cover hmed](/img/user/300.%20OBS%20TTRPG%20Scene%20viewer/Immagini/gustav_small.png)
+> ![gustav_small.png|cover hmed](/img/user/200.%20Campagna/zzz_rpg_assets/Immagini/gustav_small.png)
 > ###### Commerciante e Rigattiere
 > |  |  |
 > | ---- | ---- |

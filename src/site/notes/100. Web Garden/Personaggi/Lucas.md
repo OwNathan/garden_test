@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"Personaggi/Lucas.md","permalink":"/personaggi/lucas/"}
+{"dg-publish":true,"dg-path":"Personaggi/Lucas.md","permalink":"/personaggi/lucas/","tags":["ttrpg/personaggio"]}
 ---
 
 
 > [!infobox|wfull] 
 > # Lucas
-> ![lucas_small.png|cover hmed](/img/user/300.%20OBS%20TTRPG%20Scene%20viewer/Immagini/lucas_small.png)
+> ![lucas_small.png|cover hmed](/img/user/200.%20Campagna/zzz_rpg_assets/Immagini/lucas_small.png)
 > ###### Portavoce di Villemur
 > |  |  |
 > | ---- | ---- |

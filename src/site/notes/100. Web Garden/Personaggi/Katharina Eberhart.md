@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"Personaggi/Katharina Eberhart.md","permalink":"/personaggi/katharina-eberhart/"}
+{"dg-publish":true,"dg-path":"Personaggi/Katharina Eberhart.md","permalink":"/personaggi/katharina-eberhart/","tags":["ttrpg/personaggio"]}
 ---
 
 
 > [!infobox|wfull] 
 > # Katharina Eberhart
-> ![katharina_small.png|cover hmed](/img/user/300.%20OBS%20TTRPG%20Scene%20viewer/Immagini/katharina_small.png)
+> ![katharina_small.png|cover hmed](/img/user/200.%20Campagna/zzz_rpg_assets/Immagini/katharina_small.png)
 > ###### Dottoressa in Esilio
 > |  |  |
 > | ---- | ---- |
